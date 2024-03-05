@@ -1,5 +1,6 @@
 #!/bin/bash
-#https://www.youtube.com/watch?v=tZUo4K9yJr4
+#04/03/24
+#script youtube downloader
 if [ ! -d "/srv/yt/downloads/" ];
 then
 echo "folder /srv/yt/downloads/ doesnt exist";
